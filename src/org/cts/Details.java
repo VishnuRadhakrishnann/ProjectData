@@ -23,6 +23,10 @@ public class Details {
 		
 		String i="green@gmail.com";
 		System.out.println(i);
+		
+		int ii=10;
+		String ss="hello";
 	}
+	
 
 }
