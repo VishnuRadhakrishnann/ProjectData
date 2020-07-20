@@ -23,6 +23,9 @@ public class Details {
 		
 		String i="green@gmail.com";
 		System.out.println(i);
+		
+	    String v="vishnu@gmail.com";
+	    int x=123456789;
 	}
 
 }
